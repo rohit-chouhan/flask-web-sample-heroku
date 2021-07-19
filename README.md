@@ -17,8 +17,9 @@ A sample web and guide to deploy your Flask/Python application to Heroku
 > pip freeze > requirements.txt
 ```
 If your cmd not found `git` and `heroku` download from here
-Download Git: https://git-scm.com/downloads
-Download Heroko CLI: https://devcenter.heroku.com/articles/heroku-cli
+
+- Download Git: https://git-scm.com/downloads
+- Download Heroko CLI: https://devcenter.heroku.com/articles/heroku-cli
 
 ##### Content for `requirements.txt` 
 You can use this requirements.txt if you already generated requirements.txt command but still your site deplyed but getting application error.
